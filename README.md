@@ -242,3 +242,17 @@ AgentECHO/
 
 Built for a national-level competition. If this helps, star the repo and
 tell a judge a story from it. 💜
+
+Main features
+Always-on assistant concept: App is designed to run in the background and surface important events/actions without requiring constant manual interaction.
+Ambient sound awareness: Classifies nearby sounds and highlights important sound events (with direction/radar-style UI).
+Live conversation captions: Real-time transcription with speaker separation cues and emotion/context tagging.
+Smart action capture: Detects intent from speech/text and turns it into actionable reminders/tasks.
+ASL two-way translator: Sign-to-speech and speech/text-to-ASL companion flow (vision-assisted ASL recognition path in backend).
+Emergency mode (Trusted Circle): Hold-to-SOS flow, tiered emergency alerts, and location sharing via SMS integrations.
+Classroom/meeting assistant: Auto-generated lecture/meeting notes, summaries, and follow-up style outputs (including flashcard-like study support).
+Medical companion tools: Appointment/medical support workflows plus medication-related reminders/tracking.
+Post-meeting vibe report: Emotional/social dynamic summary after conversations/meetings.
+Text-to-speech helper: Speak generated or typed text in accessibility scenarios.
+Privacy controls: Retention controls and settings for data handling behavior.
+User profile + preferences: Personalization and app behavior settings (contacts, state, preferences endpoints on backend).
